@@ -1,0 +1,27 @@
+{
+  "title": "Template",
+  "cover": "template.png",
+  "quiz": [
+    {
+      "question": "1. Question",
+      "answers": ["answer 1", "answer 2", "answer 3","answer 4"],
+      "correct": 0
+    },    {
+      "question": "2. Question",
+      "answers": ["answer 1", "answer 2", "answer 3","answer 4"],
+      "correct": 1
+    }, {
+      "question": "3. Question",
+      "answers": ["answer 1", "answer 2", "answer 3","answer 4"],
+      "correct": 2
+    },{
+      "question": "4. Question",
+      "answers": ["answer 1", "answer 2", "answer 3","answer 4"],
+      "correct": 3
+    },{
+      "question": "5. Question",
+      "answers": ["answer 1", "answer 2", "answer 3","answer 4"],
+      "correct": 0
+    }     
+  ]
+}

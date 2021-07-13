@@ -1,0 +1,61 @@
+{
+  "title": "HTML",
+  "cover": "html.png",
+  "quiz": [
+    {
+      "question": "HTML stands for?",
+      "answers": ["HighText Machine Language", "HyperText and links Markup Language", "HyperText Markup Language", "None of these"],
+      "correct": 2
+    },
+    {
+      "question": "The correct sequence of HTML tags for starting a webpage is?",
+      "answers": ["Head, HTML, body", "HTML, Head, Body", "HTML, Body, Head", "Head, Title, Body"],
+      "correct": 1
+    },
+    {
+      "question": "How to create an unordered list (a list with the list items in bullets) in HTML?",
+      "answers": ["<ul>", "<ol>", "<li>", "<i>"],
+      "correct": 0
+    },
+    {
+      "question": "How to insert an image in HTML?",
+      "answers": ["<img href=\"img.jpg\" />", "<img src=\"img.jpg\" />", "<img url=\"img.jpg\" />", "<img link=\"img.jpg\" />"],
+      "correct": 1
+    },
+    {
+      "question": "How to create a checkbox in HTML?",
+      "answers": ["<checkbox>", "<input type=\"button\">", "<input type=\"checkbox\">", "<input type=\"check\">"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following tag is used to define options in a drop-down selection list?",
+      "answers": ["<item>", "<list>", "<dropdown>", "<option>"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following HTML attribute is used to define inline styles?",
+      "answers": ["style", "type", "class", "inline"],
+      "correct": 0
+    },
+    {
+      "question": "In HTML5, which of the following tag is used to initialize the document type?",
+      "answers": ["<Doctype HTML>", "<!DOCTYPE html>", "<Doctype type=\"HTML5\">", "<document type=\"HTML5\">"],
+      "correct": 1
+    },
+    {
+      "question": "How to create a hyperlink in HTML?",
+      "answers": [
+        "<a url=\"www.website.com\" value=\"Website\" /a>",
+        "<link> www.website.com </link>",
+        "<a link=\"www.website.com\"> Website </a>",
+        "<a href=\"www.website.com\"> Website </a>"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following tag is used for inserting the largest heading in HTML?",
+      "answers": ["<h3>", " <h1>", " <title>", "<header>"],
+      "correct": 1
+    }
+  ]
+}

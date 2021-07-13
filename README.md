@@ -1,4 +1,10 @@
-# quiz-app
+# vue-quiz-app
+
+## Quiz 
+![Quiz](./public/img/quiz.jpg)
+
+## Home
+![Home](./public/img/home.jpg)
 
 ## Project setup
 ```
@@ -22,3 +28,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
